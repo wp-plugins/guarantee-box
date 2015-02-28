@@ -1,0 +1,28 @@
+#guaranteeBox{
+	padding: 10px 10px 10px 10px;
+	clear:both;
+	border:1px solid black;
+	overflow:hidden;
+}
+#guaranteeBoxLeft{
+	float:left;
+  	width:30%;
+}
+
+guaranteeBoxRight{
+	float:left;
+}
+
+#guaranteeBoxHeadline{
+	font-size:24px;
+	text-align:center;
+}
+
+#guaranteeBoxMessage{
+	float:left;
+	width:69%
+}
+
+#guaranteeBoxImage{
+	width:150px;
+}
