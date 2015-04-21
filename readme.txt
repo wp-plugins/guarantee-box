@@ -1,7 +1,7 @@
 === Guarantee Box ===
 Contributors: jeffbullins
 Donate link: http://www.thinklandingpages.com
-Tags:  guarantee box, guarantee, risk free, money back, promise, marketing, sales page, landing page, squeeze page, coming soon page, risk reversal
+Tags:  guarantee box, guarantee, risk free, money back, promise, marketing, sales page, landing page, squeeze page, coming soon page, risk reversal, video page
 Requires at least: 3.0
 Tested up to: 4.1
 Stable tag: 1.0
@@ -16,7 +16,7 @@ An easy way to place a guarantee box on your Wordpress site.
 
 ###Quick Start Guide
 
-* [guarantee box quick start guide at thinklandingpages.com] (http://www.thinklandingpages.com/guarantee_box/)
+* [guarantee box quick start guide at thinklandingpages.com](http://www.thinklandingpages.com/guarantee_box/)
 
 ###What you get when you use the Guarantee Box
 
@@ -37,9 +37,12 @@ Whether you are writing a post about your company or another company, you can in
 
 Add as many guarantee boxes to your site as you like.  The Guarantee Box lets you create guarantee boxes and save them for when ever you are ready to use them.
 
+###Guarantee Seal
+The plugin comes with a default 100% Money Back Guarantee seal.  You can also upload your own guarantee seals.
+
 ###Quick Start Guide
 
-* [guarantee box quick start guide at thinklandingpages.com] (http://www.thinklandingpages.com/guarantee_box/)
+* [guarantee box quick start guide at thinklandingpages.com](http://www.thinklandingpages.com/guarantee_box/)
 
 
 == Installation ==
@@ -68,7 +71,7 @@ Yes, use the guarantee box shortcode, [guarantee_box id="%postId%"] on your page
 
 == Screenshots ==
 
-[See screenshots at thinklandingpages.com] (http://www.thinklandingpages.com/guarantee_box/)
+[See screenshots at thinklandingpages.com](http://www.thinklandingpages.com/guarantee_box/)
 
 
 == Changelog ==
